@@ -1,6 +1,6 @@
 <h1>TicketNotifier</h1>
 Simple MacOS Notifier made by python
-![Image of notification](ss.png)
+<img src="ss.png")
 
 <h3>Requirements</h3>
 Python3
