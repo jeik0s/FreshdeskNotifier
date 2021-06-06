@@ -1,5 +1,5 @@
 <h1>TicketNotifier</h1>
-Simple MacOS Notifier made by python
+Simple MacOS Notifier made in python
 <img src="ss.png")
 
 <h3>Requirements</h3>
